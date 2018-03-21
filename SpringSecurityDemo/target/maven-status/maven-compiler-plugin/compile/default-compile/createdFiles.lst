@@ -1,0 +1,9 @@
+com\xenture\model\User.class
+com\xenture\confguration\SecurityWebApplicationInitializer.class
+com\xenture\model\State.class
+com\xenture\util\QuickPasswordEncodingGenerator.class
+com\xenture\confguration\SpringMvcInitializer.class
+com\xenture\controller\HelloWorldController.class
+com\xenture\confguration\HelloWorldConfiguration.class
+com\xenture\model\UserProfile.class
+com\xenture\model\UserProfileType.class
